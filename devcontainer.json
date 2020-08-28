@@ -1,4 +1,9 @@
 {
     "dockerFile": "./Dockerfile",
-    "extensions": ["salesforce.salesforcedx-vscode"]
+    "extensions": [
+        "salesforce.salesforcedx-vscode",
+        "redhat.vscode-xml",
+        "dbaeumer.vscode-eslint",
+        "esbenp.prettier-vscode"
+      ]
 }
